@@ -84,7 +84,7 @@ public class Player {
 
     /**
      * This method let a computer player to play a card randomly. The computer
-     * player will pick any avaliable card to play in a random fashion.
+     * player will pick any available card to play in a random fashion.
      * 
      * @return - card to play
      */
@@ -128,15 +128,17 @@ public class Player {
         }
         System.out.println();
     }
+
     /**
      * This is a getter of hand's card. This method has been completed for you
      *
      * You don't need to modify it and you should not modify it.
+     * 
      * @param index - the index of card to take
      * @return - the card from the hand or null
      */
     public Card getHandCard(int index) {
-        if (index < 0 || index >= handCount) 
+        if (index < 0 || index >= handCount)
             return null;
         return hand[index];
     }

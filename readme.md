@@ -12,7 +12,7 @@
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2026-2223PA2/archive/refs/heads/master.zip)
 
-> To run the demo program on Windows, type the following in your terminal:
+> To run the demo program, type the following in your terminal:
 > 
 > ```sh
 > > java -jar demo.jar
@@ -22,8 +22,9 @@
 
 # Learning outcome
 
-Students are expected to have some practice on object-oriented programming concept/static variable/2D arrays/array resizing/method visibility in this assignment. We expect most students would spend X hours or more to finish the assignment without any assistance. Make sure you start earlier as possible and ask us on Piazza if you have any difficulty!
+Students are expected to have some practice on object-oriented programming concept/static variable/2D arrays/array resizing/method visibility in this assignment. We expect most students would spend 7 hours or more to finish the assignment without any assistance. Make sure you start earlier as possible and ask us on Piazza if you have any difficulty!
 
+> Important: You are not allowed to use any advanced data structure or API such as `ArrayList`, `Arrays`, `List` to manipulate your arrays. You are expected to use just `new` and loops to manipulate your arrays.
 
 # Introduction
 
@@ -155,6 +156,7 @@ This assignment is worth X% of the course mark.  There are three elements in the
 * 90% - a working program that functions as specified 
 * 5% - Programming style and documentation 
 * -50% - if you define any extra class variable (field), addition class, change the method `main`, or change the visibility of any method. However, you can introduce some private method to help you resolve inner class logic.
+* -30% - if you use forbidden API such as `ArrayList`, `List`, `Arrays`. If you have doubt, please consult Kevin before submission.
 
 Please note that submitting a program that cannot be compiled would result in a very low mark. 
 
