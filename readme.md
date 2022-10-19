@@ -21,7 +21,7 @@
 
 # Learning outcome
 
-Students are expected to have some practice on object-oriented programming concept/static variable/2D arrays/array resizing/method visibility in this assignment. We expect most students would spend 7 hours or more to finish the assignment without any assistance. Make sure you start earlier as possible and ask us on Piazza if you have any difficulty!
+Students are expected to have some practice on object-oriented programming concept/static variable/2D arrays/array resizing/method visibility in this assignment. We expect most students would spend 7 hours or more to finish the assignment without any assistance. Make sure you start earlier as possible and ask us on Discord if you have any difficulty!
 
 > Important: You are not allowed to use any advanced data structure or API such as `ArrayList`, `Arrays`, `List` to manipulate your arrays. You are expected to use just `new` and loops to manipulate your arrays.
 
