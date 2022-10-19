@@ -1,14 +1,13 @@
 ![](hkbu.png)
-# COMP2026 Programming Assignment 2 - 6 nimmt!
+# COMP2026/COMP2046 Programming Assignment 2 - 6 nimmt!
 
 ## 2022-23 Semester 1
 
 * Designed by: [Dr. Kevin Wang](mailto:kevinw@comp.hkbu.edu.hk)
-* Q & A: [Piazza](https://piazza.com/)
 * Assignment Website: [GitHub](https://github.com/khwang0/COMP2026-2223PA1)
 * Due: 
-  * UAT Due: 11:59am (Monday noon), TBD
-  * Programming Due: 23:59pm (Saturday midnight), TBD 
+  * UAT Due: 11:59am (Monday noon), 31st October, 2022
+  * Programming Due: 23:59pm (Saturday midnight), 12th November, 2022
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2026-2223PA2/archive/refs/heads/master.zip)
 
@@ -38,7 +37,7 @@ Some methods are labeled as completed or given. Please don't make any change on 
 
 ![](6nimmt.jpg)
 
-<sub><sup>image ref: https://boardgamebible.com/games/6-nimmt//</sup></sub>
+<sub><sup>image ref: https://boardgamebible.com/games/6-nimmt/</sup></sub>
 
 > The rule of the game can be referred to the following links:
 > * [YouTube video, in English](https://www.youtube.com/watch?v=ooNfiy6Nfpg)
@@ -107,7 +106,7 @@ Submit your answers on Moodle.
    2. Say "Good bye"
    3. Ask the user to play again
    4. Crash
-3. By which method a Table object can know a player's score (total number bull head)?
+3. By which method a `Table` object can know a player's score (total number bull heads)?
 4. If a computer player is forced to pick up a stack, according to the assignment description which stack the computer player should pick?
 
 
