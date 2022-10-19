@@ -6,8 +6,8 @@
 * Designed by: [Dr. Kevin Wang](mailto:kevinw@comp.hkbu.edu.hk)
 * Assignment Website: [GitHub](https://github.com/khwang0/COMP2026-2223PA1)
 * Due: 
-  * UAT Due: 11:59am (Monday noon), 31st October, 2022
-  * Programming Due: 23:59pm (Saturday midnight), 12th November, 2022
+  * UAT Due: 11:59pm (Monday midnight), 31st October, 2022
+  * Programming Due: 11:59pm (Saturday midnight), 12th November, 2022
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2026-2223PA2/archive/refs/heads/master.zip)
 
