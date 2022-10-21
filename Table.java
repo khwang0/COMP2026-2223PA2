@@ -111,7 +111,7 @@ public class Table {
     }
 
     /**
-     * Programme main. No use
+     * Programme main. You should not change this.
      * 
      * @param args - no use.
      */

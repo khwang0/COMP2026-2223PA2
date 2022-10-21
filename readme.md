@@ -17,13 +17,13 @@
 > > java -jar demo.jar
 > ```
 
-
+> This assignment is a COMP2046/COMP2026 assignment. It does not count towards your COMP2045 grade. 
 
 # Learning outcome
 
-Students are expected to have some practice on object-oriented programming concept/static variable/2D arrays/array resizing/method visibility in this assignment. We expect most students would spend 7 hours or more to finish the assignment without any assistance. Make sure you start earlier as possible and ask us on Discord if you have any difficulty!
+Students are expected to have some practices on object-oriented programming concepts/static variables/2D arrays/array resizing/method visibility in this assignment. We expect most students would spend 7 hours or more to finish the assignment without any assistance. Make sure you start as earlier as possible and ask us on Discord if you have any difficulty!
 
-> Important: You are not allowed to use any advanced data structure or API such as `ArrayList`, `Arrays`, `List` to manipulate your arrays. You are expected to use just `new` and loops to manipulate your arrays.
+> Important: You are not allowed to use any advanced data structure or API such as `ArrayList`, `Arrays`, `List` to manipulate your arrays. You are expected to use just `new` and loops to manipulate your arrays. You are allowed, but not limited, to use methods from `String` class, `Integer` class and `Scanner` class.
 
 # Introduction
 
@@ -46,14 +46,14 @@ Some methods are labeled as completed or given. Please don't make any change on 
 
 ## Rules adopted in the assignment
 
-Please note the bold letter below to get familiar with the terminology we used in this assignment.
+Please note the **bold word** below to get familiar with the terminology we used in this assignment.
 
 * We will assume there are four **players** in this game.
 * Each player will be first **dealt with 10 cards** to form their **hand cards**.
 * The aim of the game is to minimize the **score** a player received.
-* Scores are summed by the number of **bull heads** on each card of a player's **score pile (or just "pile")**.
+* Scores are computed by adding the number of **bull heads** on each card of a player's **score pile (or just "pile")**.
 * There are four **stacks** on the table. 
-* Each turn player plays their card will be compared with the **top card** of each stack. Their card will be placed to a correct stack so that the **number** of top card of this stack is smaller than the **number** of the played card. In addition, if multiple stacks have top cards smaller than the played card, the stack with largest top card will be selected.
+* Each turn player plays their card at the same time. These cards, in ascending order of their **number**, will be compared with the **top card** of each stack. Their card will be placed to the top of a correct stack, so that the **number** of top card of this stack is smaller than the **number** of the played card. In addition, if multiple stacks have top cards smaller than the played card, the stack with the largest top card will be selected.
 * Whenever a stack has 6 cards, the player who play the 6th card will need to **move the entire stack** to his score pile.
 
 
@@ -150,7 +150,7 @@ if (lateHour > 0) {
  Plagiarism is a serious offense and can be easily detected. Please don't share your code to your classmate even if they are threatening you with your friendship. If they don't have the ability to work on something that can compile, they would not be able to change your code to a state that we can't detect the act of plagiarism. For the first commit of plagiarism, regardless you shared your code or copied code from others, you will receive 0 with an addition of 5 mark penalty. If you commit plagiarism twice, your case will be presented in the exam board and you will receive a F directly.
 
 ## Marking Scheme 
-This assignment is worth X% of the course mark.  There are three elements in the marking scheme: 
+There are three elements in the marking scheme: 
 * 5% - Understanding the Assignment Test (UAT)
 * 90% - a working program that functions as specified 
 * 5% - Programming style and documentation 
