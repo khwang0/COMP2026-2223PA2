@@ -7,7 +7,7 @@
 * Assignment Website: [GitHub](https://github.com/khwang0/COMP2026-2223PA1)
 * Due: 
   * UAT Due: 11:59pm (Monday midnight), 31st October, 2022
-  * Programming Due: 11:59pm (Saturday midnight), 12th November, 2022
+  * Programming Due: 11:59pm (~~Saturday~~ Monday midnight), ~~12th~~ 14th November, 2022
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2026-2223PA2/archive/refs/heads/master.zip)
 
