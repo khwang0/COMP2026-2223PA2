@@ -20,7 +20,9 @@ public class Player {
      */
     private String name;
     /**
-     * A static variable that tells how many player has been initialized
+     * A static variable that tells how many COMPUTER player has been initialized
+     * 
+     * edit:10/11/2022
      */
     private static int count = 1;
 
